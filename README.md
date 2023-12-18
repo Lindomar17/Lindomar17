@@ -17,7 +17,4 @@
 <div> 
   <a href="https://instagram.com/lindomar__07?igshid=ZDc4ODBmNjlmNQ==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lindomar-marques-205231282" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/Lindomar17/Lindomar17/blob/output/github-contribution-grid-snake.svg)
-
 </div>
